@@ -8,3 +8,4 @@ function click_play() {
 	audio.play()
 	isClickedOnce = true;
 }
+

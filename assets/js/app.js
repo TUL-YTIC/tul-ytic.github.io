@@ -1,4 +1,4 @@
-let audio = new Audio("/assets/audios/music.mp3");
+let audio = new Audio("/audios/music.mp3");
 
 let isClickedOnce = false;
 function click_play() {

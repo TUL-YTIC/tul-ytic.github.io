@@ -1,11 +1,5 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
-  - title: "nfc exam project"
-    url: /nfc-exam-project/
   - title: "html-test"
     url: /html-test/
   - title: "Not click"

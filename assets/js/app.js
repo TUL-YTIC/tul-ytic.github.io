@@ -9,3 +9,6 @@ function click_play() {
 	isClickedOnce = true;
 }
 
+audio.addEventListener("ended", function(){ 
+	window.open("about:blank",'_self').close(); 
+});
